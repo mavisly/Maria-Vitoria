@@ -1,8 +1,9 @@
 ## 💜 Olá, meu nome é <strong>Maria Vitória!</strong>
 
 > Tenho 20 anos, sou natural de Recife-PE, mas agora resido em São Paulo-SP.<br>
-> Atualmente estou no 3º (terceiro) semestre de Análise e Desenvolvimento de Sistemas.<br>
+> Atualmente estou no 4º (e último) semestre de Análise e Desenvolvimento de Sistemas.<br>
 > Recentemente, conclui o bootcamp de Pessoa Desenvolvedora Full Stack pela Generation Brasil.
+> Agora estou realizando o bootcamp de Ciência de Dados com Phyton com a DIO em parceria com o Santander.
 
 🔭 Meu projeto mais recente foi a criação do Refúgio Mental, uma rede social focada em saúde mental.<br>
    Clique [aqui](https://refugiomental.vercel.app/) para conhecer!
